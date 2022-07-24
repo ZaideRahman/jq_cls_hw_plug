@@ -1,0 +1,10 @@
+/*wow*/
+.box{
+	min-height: 100px;
+}
+
+/*parallax*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
