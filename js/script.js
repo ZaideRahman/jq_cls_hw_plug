@@ -118,22 +118,22 @@ $(document).ready(function(){
 SSG.run({
   imgs: [
     {
-      href:'1.jpg',
+      href:'image/c1.jpg',
       alt:'Img caption 1'
     },
     {
-      href:'2.jpg',
+      href:'image/c1.jpg',
       alt:'Img caption 2'
     },{
-      href:'3.jpg',
+      href:'image/c1.jpg',
       alt:'Img caption 3'
     }
 
   ],
 
-  imgsPos:'start',
+  // imgsPos:'start',
 
-  initImgID: 12
+  // initImgID: 12
 
 });
 
